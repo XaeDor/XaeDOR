@@ -1,4 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=SHADOW%20OF%20CYBERSPACE&fontSize=40&fontColor=00FFAA&animation=fadeIn)
+<!-- Hacker-style Capsule Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=SHADOW&fontSize=50&fontColor=00FFAA&animation=fadeIn)
+
+<h3 align="center"><i>He who unveils the mystery</i></h3>
 
 # 🧠 Who Am I?
 
