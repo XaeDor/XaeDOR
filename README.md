@@ -1,9 +1,5 @@
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=300&section=header&text=💻💀%20SHADOW%20%7C%20Exploit%20The%20Unknown&fontSize=40&fontColor=FF0033&animation=fadeIn)
-
-<h3 align="center"><i>Initiating deep trace protocol...</i></h3>
-
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=320&section=header&text=💻💀%20SHADOW%0A🛡️%20TRACE%20%7C%20INFILTRATE%20%7C%20ERASE&fontSize=35&fontColor=FF0033&animation=fadeIn)
 # 🧠 Who Am I?
 
 > *"They follow rules. I read the rules… then write my own exploits."*
