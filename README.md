@@ -1,5 +1,6 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=320&section=header&text=💻💀%20SHADOW%0A🛡️%20Initializing%20deep%20trace%20protocol...&fontSize=35&fontColor=FF0033&animation=fadeIn)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=320&section=header&text=💻💀%20SHADOW%0A🛡️%20TRACE%20%7C%20INFILTRATE%20%7C%20ERASE&fontSize=35&fontColor=FF0033&animation=fadeIn)
+
 # 🧠 Who Am I?
 
 > *"They follow rules. I read the rules… then write my own exploits."*
