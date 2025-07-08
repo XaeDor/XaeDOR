@@ -1,10 +1,7 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shadowisdev/shadowisdev/main/A_digital_artwork_in_a_cyberpunk_and_hacker_theme_.png" alt="Shadow - He Who Unveils the Mystery" width="100%"/>
-</p>
+![SHADOW Banner](https://images.unsplash.com/photo-1603354350317-6e8d6c44d0ae?auto=format&fit=crop&w=1024&q=80)
 
-<h1 align="center"><b>Shadow</b></h1>
-<p align="center">He who unveils the mystery</p>
+<h1 align="center">SHADOW</h1>
+<p align="center"><i>He who unveils the mystery...</i></p>
 
 ---
 
