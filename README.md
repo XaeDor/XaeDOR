@@ -1,5 +1,5 @@
-<!-- DARK FINAL SHADOW BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,2a2a2a,4c0000&height=300&section=header&text=💻💀%20SHADOW%20%7C%20Exploit%20The%20Unknown&fontSize=40&fontColor=FF0033&animation=fadeIn)
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=300&section=header&text=💻💀%20SHADOW%20%7C%20Exploit%20The%20Unknown&fontSize=40&fontColor=FF0033&animation=fadeIn)
 
 <h3 align="center"><i>Initiating deep trace protocol...</i></h3>
 
