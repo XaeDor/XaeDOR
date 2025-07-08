@@ -1,9 +1,4 @@
-![SHADOW Banner](https://images.unsplash.com/photo-1603354350317-6e8d6c44d0ae?auto=format&fit=crop&w=1024&q=80)
-
-<h1 align="center">SHADOW</h1>
-<p align="center"><i>He who unveils the mystery...</i></p>
-
----
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=SHADOW%20OF%20CYBERSPACE&fontSize=40&fontColor=00FFAA&animation=fadeIn)
 
 # 🧠 Who Am I?
 
@@ -76,7 +71,7 @@ Each certificate is a tool in my hacking belt — not for show, but for action.
 
 ## 📡 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsharma1221e@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsharma1221e@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pushkraj__1221-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkraj_1221)
 
 ---
