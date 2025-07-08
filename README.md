@@ -1,5 +1,5 @@
-<!-- DOUBLE LINE SHADOW BANNER WITH TAGLINE -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=320&section=header&text=💻💀%20SHADOW%0A🛡️%20Initializing%20deep%20trace%20protocol...&fontSize=35&fontColor=FF0033&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=000000,1c1c1c,2a2a2a,2a2a2a,1c1c1c,4c0000&height=300&section=header&text=💻💀%20SHADOW%20%7C%20Exploit%20The%20Unknown&fontSize=40&fontColor=FF0033&animation=fadeIn)
+<h3 align="center"><i>🛡️ Initializing deep trace protocol<span style="color:#FF0033">...</span></i></h3>
 
 # 🧠 Who Am I?
 
