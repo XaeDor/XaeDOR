@@ -1,4 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=SHADOW%20OF%20CYBERSPACE&fontSize=40&fontColor=00FFAA&animation=fadeIn)
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shadowisdev/shadowisdev/main/A_digital_artwork_in_a_cyberpunk_and_hacker_theme_.png" alt="Shadow - He Who Unveils the Mystery" width="100%"/>
+</p>
+
+<h1 align="center"><b>Shadow</b></h1>
+<p align="center">He who unveils the mystery</p>
+
+---
 
 # 🧠 Who Am I?
 
@@ -71,7 +79,7 @@ Each certificate is a tool in my hacking belt — not for show, but for action.
 
 ## 📡 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsharma1221e@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsharma1221e@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-pushkraj__1221-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkraj_1221)
 
 ---
