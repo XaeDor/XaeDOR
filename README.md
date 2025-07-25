@@ -5,6 +5,16 @@
 
 > *"They follow rules. I read the rules… then write my own exploits."*
 
+<h1 align="center">Shadow aka XaeDor</h1>
+<p align="center">
+  Ethical Hacker | Red Team Enthusiast | Bug Bounty Hunter | Cybersecurity Researcher  
+</p>
+
+I’m **Shadow aka XaeDor** — a silent dominator of digital shadows.  
+A curious hacker mind shaped by terminals, tunnels, and trace routes.
+
+
+
 I’m **“ѕнα∂σω αкα χαє∂σя – ѕιℓєηтℓу ∂σмιηαтιηg тнє ∂ιgιтαℓ ѕнα∂σωѕ”** —  
 A curious mind shaped by terminals, tunnels, and traces.
 
@@ -56,8 +66,8 @@ Each certificate is a tool in my hacking belt — not for show, but for action.
 
 ## 📊 My Recon Stats
 
-![Shadow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowisdev&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowisdev&layout=compact&theme=radical)
+![XaeDor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XaeDor&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XaeDor&layout=compact&theme=radical)
 
 ---
 
@@ -79,3 +89,12 @@ Each certificate is a tool in my hacking belt — not for show, but for action.
 
 > ⚔️ *“Build. Break. Learn. Repeat.”*  
 > _Your digital trail ends here... unless I’m tracing it._
+
+<!--
+Keywords: Ethical Hacker, Cybersecurity Researcher, Bug Bounty, Linux Scripter, GitHub Hacking Projects, XaeDor, Shadow Hacking, OSINT, Kali Linux Scripts, Digital Shadows, InfoSec Tools
+-->
+<!--
+Keywords: XaeDor, Shadow Hacker, GitHub Ethical Hacker, Red Team, Bug Bounty, Linux Tools, Terminal Ninja, OSINT Hacker, InfoSec Projects, GitHub Cybersecurity, Shadowisdev, Ethical Hacking GitHub, Custom Exploits, CTFs, GitHub XaeDor
+-->
+
+
