@@ -13,11 +13,6 @@
 I’m **Shadow aka XaeDor** — a silent dominator of digital shadows.  
 A curious hacker mind shaped by terminals, tunnels, and trace routes.
 
-
-
-I’m **“ѕнα∂σω αкα χαє∂σя – ѕιℓєηтℓу ∂σмιηαтιηg тнє ∂ιgιтαℓ ѕнα∂σωѕ”** —  
-A curious mind shaped by terminals, tunnels, and traces.
-
 🎓 Final-year Cyber & Digital Science student  
 🎯 Studying Ethical Hacking, Linux, Networking, and the dark side of code  
 🧠 I don't just hack systems — I understand how they think
