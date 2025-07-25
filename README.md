@@ -5,7 +5,7 @@
 
 > *"They follow rules. I read the rules… then write my own exploits."*
 
-I’m **Shadow** —  
+I’m **“ѕнα∂σω αкα χαє∂σя – ѕιℓєηтℓу ∂σмιηαтιηg тнє ∂ιgιтαℓ ѕнα∂σωѕ”** —  
 A curious mind shaped by terminals, tunnels, and traces.
 
 🎓 Final-year Cyber & Digital Science student  
