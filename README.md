@@ -59,13 +59,6 @@ Each certificate is a tool in my hacking belt — not for show, but for action.
 
 ---
 
-## 📊 My Recon Stats
-
-![XaeDor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XaeDor&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XaeDor&layout=compact&theme=radical)
-
----
-
 ## 🧠 Inside the Mind of the Shadow
 
 - 🕵️ Passionate about **Red Teaming** and **Digital Forensics**
