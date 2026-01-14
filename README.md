@@ -78,7 +78,6 @@ Each certificate is a tool in my hacking belt — not for show, but for action.
 ## 📡 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsharma1221e@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-pushkraj__1221-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pushkraj_1221)
 [![Website](https://img.shields.io/badge/Portfolio-shadow.is--a.dev-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://shadowalker.is-a.dev/)
 
 
